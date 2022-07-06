@@ -3,7 +3,6 @@
 The purpose of this analysis is to walk one through the process in which I worked through this module, how it improved my analytics skills, shortcomings in my skill, pros and cons of VBA, and Next Steps. With very little VBA experience I was struggled to run such a seemingly powerful but restrictive software such as VBA. This is especially true when comparing it to Python.
 
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-Summary: In a summary statement, address the following questions.
 
 ### Extra
 https://www.youtube.com/watch?v=S5awwOwnyhE "17 Things Beginners Must Know About The Excel VBA Editor"
@@ -16,6 +15,14 @@ If refactoring is not done systemically it can introduce new errors to the code 
 
 ##### While refactoring the simple code below, I encountered errors along the way. These seemingly simple errors can be scary for beginners. 
 ![image](https://user-images.githubusercontent.com/87838015/177437872-9ea78061-e5e2-48be-a9cc-9d04dfc9a48c.png)
+
+##### Another seemingly simple error along the journey...
+![image](https://user-images.githubusercontent.com/87838015/177438452-12da08d8-e9ef-4864-b1bd-90081c30b9e7.png)
+
+##### At times you can correct the body of the cody but make fundamental mistakes in the beginning/end as seen below.
+(Take a closer look and ensure that all your code is within a valid procedure that begins with something like Sub Name() and ends with End Sub)
+![image](https://user-images.githubusercontent.com/87838015/177438663-3952ca18-406a-4019-bd36-804a3fca8705.png)
+
 
 #### Pros of VBA
 Powerful software that can be relied on for consistency. If set up properly, someone with little Excel knowledge can make use of your macro.
