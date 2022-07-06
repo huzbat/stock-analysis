@@ -5,11 +5,14 @@ The purpose of this analysis is to walk one through the process in which I worke
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 Summary: In a summary statement, address the following questions.
 
+### Extra
+https://www.youtube.com/watch?v=S5awwOwnyhE "17 Things Beginners Must Know About The Excel VBA Editor"
 ## What are the advantages or disadvantages of refactoring code?
 #### Advantages
 Better comprehension as base is already created and facilitates learning through maintenance and improvement of the given software	
 #### Disadvantages
 If refactoring is not done systemically it can introduce new errors to the code and make identifying the error more difficult
+![image](https://user-images.githubusercontent.com/87838015/177437872-9ea78061-e5e2-48be-a9cc-9d04dfc9a48c.png)
 
 #### Pros of VBA
 Powerful software that can be relied on for consistency. If set up properly, someone with little Excel knowledge can make use of your macro.
