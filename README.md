@@ -12,6 +12,9 @@ https://www.youtube.com/watch?v=S5awwOwnyhE "17 Things Beginners Must Know About
 Better comprehension as base is already created and facilitates learning through maintenance and improvement of the given software	
 #### Disadvantages
 If refactoring is not done systemically it can introduce new errors to the code and make identifying the error more difficult
+
+
+##### While refactoring the simple code below, I encountered errors along the way. These seemingly simple errors can be scary for beginners. 
 ![image](https://user-images.githubusercontent.com/87838015/177437872-9ea78061-e5e2-48be-a9cc-9d04dfc9a48c.png)
 
 #### Pros of VBA
